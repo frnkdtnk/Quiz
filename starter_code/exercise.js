@@ -41,7 +41,7 @@ exercise.addProperty = function(someObject){
     //   Give 'name' any value you like.
     // ----------------------------------------
     someObject.name= 'bruce';
-    return someObject.name;
+    return someObject;
 };
 
 exercise.thirdElement = function(someArray){
